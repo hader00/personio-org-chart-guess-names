@@ -5,7 +5,8 @@
   "description": "Adds a gray overlay to names in the Personio Org chart to help learn names by faces.",
   "permissions": [
     "activeTab",
-    "scripting"
+    "scripting",
+    "tabs"
   ],
   "content_scripts": [
     {
